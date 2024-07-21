@@ -20,8 +20,8 @@ This Library Management System is designed to run in the terminal.
         Change the author name
         Edit the book quantity
     c. Display books taken by users.
-For Library Members:
-a. Display all books present in the library.
-b. Display books taken by the user.
-c. Borrow books.
-d. Return books.
+3. For Library Members:
+   a. Display all books present in the library.
+   b. Display books taken by the user.
+   c. Borrow books.
+   d. Return books.
